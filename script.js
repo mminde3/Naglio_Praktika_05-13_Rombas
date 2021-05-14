@@ -23,4 +23,3 @@ for (let i = 0; i < 21; i++) {
 }
 
 document.getElementById("rombas").innerHTML = rombas;
-
